@@ -1,0 +1,8 @@
+npm init -y (server'ın içine yap)json paketini oluşturur.
+npm install express mongoose cors nodemon
+
+install -- 
+cors -- 
+express -- 
+nodemon -- 
+
